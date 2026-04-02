@@ -56,17 +56,10 @@ engineering_style:
 
 ## 贡献图贪吃蛇
 
-<div align="center">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/JYEverUp/JYEverUp/output/github-contribution-grid-snake-dark.svg" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
+</picture>
 
-## GitHub 概览
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JYEverUp&show_icons=true&hide_border=true&rank_icon=github&title_color=111827&icon_color=2563eb&text_color=334155&bg_color=ffffff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYEverUp&layout=compact&hide_border=true&title_color=111827&text_color=334155&bg_color=ffffff" />
-</div>
-
-## 一句话概括
-
-> 我喜欢做难而正确的事，把模糊问题变成可交付的结果。
+> 
