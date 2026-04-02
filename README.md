@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420" alt="coding animation" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420" alt="quiet coding animation" />
 </div>
 
 <div align="center">
@@ -21,12 +21,14 @@
 
 我是 JY。
 
-I build software that is not only functional, but also stable, scalable and worth maintaining.
+I build Java-based systems, AI agents, Python services and modern web applications that are reliable, scalable and production-ready.
 
-- ▸ 做全栈，但更偏爱 `backend architecture`、`system design`、`developer productivity`
+- ▸ 以 `Java / Spring` 技术体系为主，聚焦后端架构、服务治理与系统设计
+- ▸ 熟悉 `Python` 服务开发、AI 工具链集成与脚本化自动化能力建设
+- ▸ 具备 `Vue / TypeScript` 前端开发能力，能完成完整产品链路交付
+- ▸ 持续投入 `AI Agent`、`LLM 应用`、`workflow automation` 与业务场景落地
 - ▸ 喜欢把模糊需求拆清楚，把复杂系统做扎实，把交付结果做漂亮
-- ▸ 持续关注 `AI applications`、`workflow automation`、`data products`
-- ▸ 在意的不只是功能完成，也在意 `performance`、`maintainability`、`clarity`
+- ▸ 在意的不只是功能完成，也在意 `performance`、`maintainability`、`stability`
 
 <table>
   <tr>
@@ -34,10 +36,11 @@ I build software that is not only functional, but also stable, scalable and wort
 
 ### ⚙ What I Build
 
-- Enterprise backends and service APIs
-- AI-native tools and internal platforms
-- Data systems and workflow products
-- Web applications with clean UX and maintainable code
+- Java enterprise backends and service APIs
+- AI Agent applications and tool platforms
+- Python services, automation scripts and AI integration layers
+- Workflow systems and business-facing platforms
+- Web products with modern frontend delivery
 
 ### ☕ Work Style
 
@@ -53,11 +56,13 @@ I build software that is not only functional, but also stable, scalable and wort
 
 ```yaml
 focus:
-  - AI + Engineering
-  - Backend Architecture
-  - Full-Stack Delivery
-  - Automation & Tooling
-  - Better Dev Experience
+  - Java / Spring Architecture
+  - AI Agent Engineering
+  - LLM Application Integration
+  - Python Service Development
+  - Frontend Delivery with Vue / TypeScript
+  - Workflow Automation
+  - Stable Full-Stack Delivery
 ```
 
 ### ♞ Motto
@@ -72,18 +77,21 @@ focus:
 ## ⚒ Tech Stack / 技术栈
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,ts,js,vue,react,mysql,postgres,redis,docker,git,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,python,fastapi,mysql,postgres,redis,docker,git,linux,vue,ts&perline=7" />
 </div>
 
 ## ⌘ Engineering Notes / 工程偏好
 
 ```yaml
 engineering_style:
+  java_stack: Spring-first, service-oriented, maintainable
+  python_usage: automation, AI integration, efficient tooling
+  frontend: pragmatic, clean, user-oriented
   architecture: clear > clever
   coding: readable > over-designed
   delivery: fast, but not fragile
+  agent_building: practical, traceable, production-focused
   optimization: measured, not imagined
-  collaboration: proactive and dependable
 ```
 
 ## ◈ Snapshot
@@ -102,9 +110,10 @@ engineering_style:
 
 ```text
 [ JY.dev ]
-> building backend services...
-> shipping AI tools...
-> refining product details...
+> building Java backend services...
+> shipping AI agents and tools...
+> integrating Python services and frontend experiences...
+> refining architecture and product details...
 > learning, iterating, improving...
 ```
 
