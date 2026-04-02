@@ -1,65 +1,107 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1d4ed8,100:22c55e&text=JY%20Ever%20Up&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=%E5%85%A8%E6%A0%88%20%7C%20%E5%90%8E%E7%AB%AF%E6%9E%B6%E6%9E%84%20%7C%20AI%20%E5%BA%94%E7%94%A8&descAlignY=58" />
-
-<p>
-  <a href="https://github.com/JYEverUp"><img src="https://img.shields.io/github/followers/JYEverUp?style=flat-square&logo=github&label=%E5%85%B3%E6%B3%A8%E8%80%85&color=111827" /></a>
-  <img src="https://komarev.com/ghpvc/?username=JYEverUp&style=flat-square&color=2563eb&label=%E8%AE%BF%E9%97%AE%E9%87%8F" />
-  <a href="https://github.com/JYEverUp?tab=repositories"><img src="https://img.shields.io/github/stars/JYEverUp?style=flat-square&label=Stars&color=16a34a" /></a>
-</p>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0b1220,45:0f766e,100:2563eb&text=JY%20Ever%20Up&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Backend%20Architecture%20%7C%20AI%20Applications&descAlignY=58" />
 </div>
 
-## 你好，我是 JY
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=800&color=2563EB&center=true&vCenter=true&width=980&lines=%E5%81%9A%E8%83%BD%E7%9C%9F%E6%AD%A3%E8%90%BD%E5%9C%B0%E7%9A%84%E4%BA%A7%E5%93%81%EF%BC%8C%E4%B9%9F%E5%81%9A%E8%83%BD%E9%95%BF%E6%9C%9F%E6%BC%94%E8%BF%9B%E7%9A%84%E7%B3%BB%E7%BB%9F;Build+useful+systems+with+clarity%2C+speed+and+taste;From+idea+to+production%2C+ship+meaningful+work" />
+</div>
 
-我专注于把复杂需求做成真正可上线、可扩展、可维护的软件系统。
+<div align="center">
+  <a href="https://github.com/JYEverUp"><img src="https://img.shields.io/github/followers/JYEverUp?style=for-the-badge&logo=github&label=Follow&color=111827" /></a>
+  <img src="https://komarev.com/ghpvc/?username=JYEverUp&style=for-the-badge&color=2563eb&label=Views" />
+  <a href="https://github.com/JYEverUp?tab=repositories"><img src="https://img.shields.io/github/stars/JYEverUp?style=for-the-badge&label=Stars&color=0f766e" /></a>
+</div>
 
-- 擅长全栈开发、后端架构设计、接口治理与工程效率优化
-- 能独立推进需求拆解、方案设计、编码实现、测试上线和后续迭代
-- 持续投入在 AI 应用、自动化工作流、数据系统和开发工具链方向
-- 关注的不只是功能完成，更是稳定性、性能、可维护性和长期演进
+## About Me / 关于我
 
-## 我在做的事
+我是 JY。
 
-```text
-正在构建:
-  - 更稳的后端系统
-  - 更快的交付流程
-  - 更实用的 AI 应用
-  - 更少重复劳动的自动化工具
+I build software that is not only functional, but also stable, scalable and worth maintaining.
+
+- 做全栈，但更偏爱 `backend architecture`、`system design`、`developer productivity`
+- 喜欢把模糊需求拆清楚，把复杂系统做扎实，把交付结果做漂亮
+- 持续关注 `AI applications`、`workflow automation`、`data products`
+- 在意的不只是功能完成，也在意 `performance`、`maintainability`、`clarity`
+
+<table>
+  <tr>
+    <td valign="top" width="52%">
+
+### What I Build
+
+- Enterprise backends and service APIs
+- AI-native tools and internal platforms
+- Data systems and workflow products
+- Web applications with clean UX and maintainable code
+
+### Work Style
+
+- Think clearly
+- Build fast
+- Refine continuously
+- Keep systems simple and reliable
+
+  </td>
+    <td valign="top" width="48%">
+
+### Current Focus
+
+```yaml
+focus:
+  - AI + Engineering
+  - Backend Architecture
+  - Full-Stack Delivery
+  - Automation & Tooling
+  - Better Dev Experience
 ```
 
-## 技术关键词
+### Motto
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,ts,vue,react,mysql,postgres,redis,docker,git,linux&perline=7" />
-</p>
+> 做难而正确的事  
+> Build things that stay useful.
 
-## 偏好的工程方式
+  </td>
+  </tr>
+</table>
+
+## Tech Stack / 技术栈
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,ts,js,vue,react,mysql,postgres,redis,docker,git,linux&perline=8" />
+</div>
+
+## Engineering Notes / 工程偏好
 
 ```yaml
 engineering_style:
-  architecture: 清晰、稳健、便于迭代
-  coding: 简洁、可读、可维护
-  delivery: 快速推进，但不牺牲质量
-  collaboration: 主动沟通，结果导向
-  optimization: 基于数据，而不是凭感觉
+  architecture: clear > clever
+  coding: readable > over-designed
+  delivery: fast, but not fragile
+  optimization: measured, not imagined
+  collaboration: proactive and dependable
 ```
 
-## 当前聚焦
+## GitHub Pulse
 
-- AI 原生应用与 LLM 集成
-- 后端架构与服务治理
-- 数据驱动系统与业务平台
-- 全栈产品落地与体验打磨
-- 自动化工具与开发效率提升
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JYEverUp&show_icons=true&hide_border=true&rank_icon=github&title_color=0f172a&icon_color=2563eb&text_color=475569&bg_color=ffffff" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYEverUp&layout=compact&hide_border=true&title_color=0f172a&text_color=475569&bg_color=ffffff" />
+</div>
 
-## 贡献图贪吃蛇
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JYEverUp&bg_color=ffffff&color=0f172a&line=2563eb&point=0ea5e9&area=true&hide_border=true" />
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
-</picture>
+## Snake / 贪吃蛇
 
-> 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JYEverUp/JYEverUp/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JYEverUp/JYEverUp/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JYEverUp/JYEverUp/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+## Closing / 结尾一句
+
+> 从需求到上线，从系统到细节，keep shipping meaningful work.
