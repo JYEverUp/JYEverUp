@@ -1,9 +1,13 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=0:0f172a,50:1d4ed8,100:0f766e&text=JY%20Ever%20Up&fontColor=ffffff&fontSize=46&fontAlignY=36&animation=twinkling&desc=Full-Stack%20Engineer%20%7C%20Backend%20Architecture%20%7C%20AI%20Apps&descAlignY=58" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2400&pause=1000&color=2EA3FF&center=true&vCenter=true&width=900&height=80&lines=console.log(%22Hello%2C+World!%22);console.log(%22%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+JY%22);console.log(%22Build+cool+things.%22)" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NqM2UxcHpuNXg3YmxjbTFsYnd5bWtwb3B0NWQ0YjV1dHQxZDF4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif" width="460" alt="coding gif" />
+  <img src="https://media4.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420" alt="coding animation" />
 </div>
 
 <div align="center">
@@ -82,28 +86,27 @@ engineering_style:
   collaboration: proactive and dependable
 ```
 
-## ◈ GitHub Pulse
+## ◈ Snapshot
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JYEverUp&show_icons=true&hide_border=true&rank_icon=github&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYEverUp&layout=compact&hide_border=true&title_color=38bdf8&text_color=cbd5e1&bg_color=0d1117" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=140&section=header&text=%E2%9C%A6%20Java%20%20Spring%20%20Python%20%20FastAPI%20%20Vue%20%20React&fontColor=e2e8f0&fontSize=24&animation=fadeIn" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JYEverUp&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d4ed8,100:0f766e&height=120&section=header&text=%E2%9C%A7%20Build%20stable%20systems%20%20%E2%9C%A7%20Ship%20useful%20products%20%20%E2%9C%A7%20Keep%20learning&fontColor=ffffff&fontSize=22&animation=fadeIn" />
 </div>
 
-> `activity graph` 这类图经常会裂，所以这里换成相对更稳、也更接近你想要风格的 dark cards + trophy strip。
+> 这里改成更稳的动态横幅，不再依赖容易裂图的第三方统计卡片。
 
-## :snake: Snake / 贪吃蛇
+## :sparkles: Now Building
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JYEverUp/JYEverUp/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JYEverUp/JYEverUp/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JYEverUp/JYEverUp/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+```text
+[ JY.dev ]
+> building backend services...
+> shipping AI tools...
+> refining product details...
+> learning, iterating, improving...
+```
 
 ## ✺ Closing / 结尾一句
 
