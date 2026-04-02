@@ -1,40 +1,41 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0b1220,45:0f766e,100:2563eb&text=JY%20Ever%20Up&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Backend%20Architecture%20%7C%20AI%20Applications&descAlignY=58" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2400&pause=1000&color=2EA3FF&center=true&vCenter=true&width=900&height=80&lines=console.log(%22Hello%2C+World!%22);console.log(%22%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+JY%22);console.log(%22Build+cool+things.%22)" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=800&color=2563EB&center=true&vCenter=true&width=980&lines=%E5%81%9A%E8%83%BD%E7%9C%9F%E6%AD%A3%E8%90%BD%E5%9C%B0%E7%9A%84%E4%BA%A7%E5%93%81%EF%BC%8C%E4%B9%9F%E5%81%9A%E8%83%BD%E9%95%BF%E6%9C%9F%E6%BC%94%E8%BF%9B%E7%9A%84%E7%B3%BB%E7%BB%9F;Build+useful+systems+with+clarity%2C+speed+and+taste;From+idea+to+production%2C+ship+meaningful+work" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NqM2UxcHpuNXg3YmxjbTFsYnd5bWtwb3B0NWQ0YjV1dHQxZDF4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif" width="460" alt="coding gif" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/JYEverUp"><img src="https://img.shields.io/github/followers/JYEverUp?style=for-the-badge&logo=github&label=Follow&color=111827" /></a>
-  <img src="https://komarev.com/ghpvc/?username=JYEverUp&style=for-the-badge&color=2563eb&label=Views" />
-  <a href="https://github.com/JYEverUp?tab=repositories"><img src="https://img.shields.io/github/stars/JYEverUp?style=for-the-badge&label=Stars&color=0f766e" /></a>
+  <a href="https://github.com/JYEverUp"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://github.com/JYEverUp?tab=repositories"><img src="https://img.shields.io/badge/projects-%E9%A1%B9%E7%9B%AE-1d4ed8?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/JYEverUp"><img src="https://img.shields.io/badge/follow-%E5%85%B3%E6%B3%A8-0f766e?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=JYEverUp&style=for-the-badge&color=2563eb&label=visitors" />
 </div>
 
-## About Me / 关于我
+## ✦ About Me / 关于我
 
 我是 JY。
 
 I build software that is not only functional, but also stable, scalable and worth maintaining.
 
-- 做全栈，但更偏爱 `backend architecture`、`system design`、`developer productivity`
-- 喜欢把模糊需求拆清楚，把复杂系统做扎实，把交付结果做漂亮
-- 持续关注 `AI applications`、`workflow automation`、`data products`
-- 在意的不只是功能完成，也在意 `performance`、`maintainability`、`clarity`
+- ▸ 做全栈，但更偏爱 `backend architecture`、`system design`、`developer productivity`
+- ▸ 喜欢把模糊需求拆清楚，把复杂系统做扎实，把交付结果做漂亮
+- ▸ 持续关注 `AI applications`、`workflow automation`、`data products`
+- ▸ 在意的不只是功能完成，也在意 `performance`、`maintainability`、`clarity`
 
 <table>
   <tr>
     <td valign="top" width="52%">
 
-### What I Build
+### ⚙ What I Build
 
 - Enterprise backends and service APIs
 - AI-native tools and internal platforms
 - Data systems and workflow products
 - Web applications with clean UX and maintainable code
 
-### Work Style
+### ☕ Work Style
 
 - Think clearly
 - Build fast
@@ -44,7 +45,7 @@ I build software that is not only functional, but also stable, scalable and wort
   </td>
     <td valign="top" width="48%">
 
-### Current Focus
+### ✧ Current Focus
 
 ```yaml
 focus:
@@ -55,7 +56,7 @@ focus:
   - Better Dev Experience
 ```
 
-### Motto
+### ♞ Motto
 
 > 做难而正确的事  
 > Build things that stay useful.
@@ -64,13 +65,13 @@ focus:
   </tr>
 </table>
 
-## Tech Stack / 技术栈
+## ⚒ Tech Stack / 技术栈
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,ts,js,vue,react,mysql,postgres,redis,docker,git,linux&perline=8" />
 </div>
 
-## Engineering Notes / 工程偏好
+## ⌘ Engineering Notes / 工程偏好
 
 ```yaml
 engineering_style:
@@ -81,18 +82,20 @@ engineering_style:
   collaboration: proactive and dependable
 ```
 
-## GitHub Pulse
+## ◈ GitHub Pulse
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JYEverUp&show_icons=true&hide_border=true&rank_icon=github&title_color=0f172a&icon_color=2563eb&text_color=475569&bg_color=ffffff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYEverUp&layout=compact&hide_border=true&title_color=0f172a&text_color=475569&bg_color=ffffff" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JYEverUp&show_icons=true&hide_border=true&rank_icon=github&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYEverUp&layout=compact&hide_border=true&title_color=38bdf8&text_color=cbd5e1&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JYEverUp&bg_color=ffffff&color=0f172a&line=2563eb&point=0ea5e9&area=true&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JYEverUp&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
 </div>
 
-## Snake / 贪吃蛇
+> `activity graph` 这类图经常会裂，所以这里换成相对更稳、也更接近你想要风格的 dark cards + trophy strip。
+
+## :snake: Snake / 贪吃蛇
 
 <div align="center">
   <picture>
@@ -102,6 +105,6 @@ engineering_style:
   </picture>
 </div>
 
-## Closing / 结尾一句
+## ✺ Closing / 结尾一句
 
 > 从需求到上线，从系统到细节，keep shipping meaningful work.
